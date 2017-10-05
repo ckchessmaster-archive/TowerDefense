@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4DA1EBC2-4BC0-53BB-90DA-42A52B76C6D8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FebruaryGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}

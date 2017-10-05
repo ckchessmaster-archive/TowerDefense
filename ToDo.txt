@@ -1,0 +1,14 @@
+- *Tower Models
+- Unit models
+- *Special mob mechanics
+- *Boss mechanics
+- *Tower Attacks
+- *Tower animations
+- Start menu
+- In game menu
+- *End of game conditions/dialog
+- *Light level changes
+- towers upgrade properly
+--------------------------------------------
+- crash/bug fixes
+- Balance
